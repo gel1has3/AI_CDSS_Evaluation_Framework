@@ -8,4 +8,15 @@ We adopted 22 items from the Ji, Mengting, et al.2021 study based on our researc
 We automated the questionnaire, which is now available in both English and Amharic. It is a form of psychometric response scale in which respondents express their level of agreement to a statement in five scores: (1) strongly disagree; (2) disagree; (3) neutral; (4) agree; and (5) strongly agree. The questionnaire is structured into five sections with a total of 22 questions to validate and measure the instrument's characteristics in the following order: ease of use, system quality, information quality, decision changes, process changes, and user acceptance. 
 
 Furthermore, the assessment is conducted after the expert or health professional has used the CDS- POC instrument. The automated questionnaire tracks the time it takes to complete the questionnaire and filters out disagree, strongly disagree, and neutral responses for further interview to see where CDS-POC solution may improve.
+
+
+
+
 <img width="255" alt="Screen Shot 2022-07-01 at 2 59 47 PM" src="https://user-images.githubusercontent.com/17700070/176899867-bd2ee2df-2994-491f-beea-8121d7f2c29a.png">
+
+
+<img width="998" alt="Screen Shot 2022-07-01 at 3 00 04 PM" src="https://user-images.githubusercontent.com/17700070/176900012-a02e0750-c419-4ec9-9826-c8eef1a984d9.png">
+
+
+
+<img width="996" alt="Screen Shot 2022-07-01 at 3 00 15 PM" src="https://user-images.githubusercontent.com/17700070/176900028-f78a4c40-ab57-4eb0-9edb-5fda8952445e.png">
